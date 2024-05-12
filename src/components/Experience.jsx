@@ -14,9 +14,7 @@ export const Experience = () => {
           opacity: 2,
         }}
         adjustCamera={2}
-      >
-        {/* <Table /> */}
-      </Stage>
+      ></Stage>
       <OrbitControls
         makeDefault
         minPolarAngle={0}
